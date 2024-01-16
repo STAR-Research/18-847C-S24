@@ -1,4 +1,4 @@
-# 18-847B: Modern Computer Systems (Spring 2024)
+# 18-847B: Data Center Computing (Spring 2024)
 
 READ THIS ENTIRE DOCUMENT 
 
