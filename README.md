@@ -1,4 +1,4 @@
-# 18-847B: Modern Computer Systems (Fall 2023)
+# 18-847B: Modern Computer Systems (Spring 2024)
 
 READ THIS ENTIRE DOCUMENT 
 
@@ -11,7 +11,7 @@ READ THIS ENTIRE DOCUMENT
 
 **Teaching Assistant:** Melissa Pan <br/>
 **Email Address:**  melissapan@cmu.edu <br/>	
-**Office Hours:**	  Email to schedule a Zoom appointment
+**Office Hours:**	  Slack or email to schedule a Zoom/In-person appointment
 
 **Course Support:**  Academic Services Center <br/>
 **Office Location:**  HH 1113 <br/>
@@ -32,7 +32,7 @@ However, students tend to do well in this course when they have a good understan
 
 **Graduate Area:**  Computer Systems	
 
-**Class lecture:**  MW 3:30 - 4:50 pm ET at WEH 5302. Class lectures will not be recorded since we have moved to in-person teaching. However, if you are unable to attend class for some reason, please let the professor know in advance; we are more than happy to accommodate your needs. 
+**Class lecture:**  MW 02:00PM - 03:20PM PH 225B. Class lectures will not be recorded since we have moved to in-person teaching. However, if you are unable to attend class for some reason, please let the professor know in advance; we are more than happy to accommodate your needs. 
 
 **Required Textbook:**  None
 
@@ -104,37 +104,36 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-f23.hotcrp.
 
 | Date      | Topic | Readings | Notes | Summary | Advocate | Critic |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Aug 28 (M) Lecture 1 | [Introduction to Data center Computing](https://drive.google.com/file/d/1c04f6nlFjQi0E6h4NUl9Kb242eLALo5y/view?usp=drive_link) | Introduction |- Find project partners <br/> - [Form](https://forms.gle/mnp6in6NxtikeBHu7) due|
-| Aug 30 (W) Lecture 2 <br/> | [Introduction to Data center Computing](https://drive.google.com/file/d/1S1KTJMHY6Kx1Znkib7WKieCEG_8kA1LO/view?usp=drive_link) | Introduction | - Finalize project partners <br/> | Akshitha Sriraman |
-| Sep 4 (M) | **Holiday: No Class** |  | |
-| Sep 6 (W) | [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf) | Web application paradigms | - Submit project proposal document describing project topic (<=1 page) on Sep 8 </br> -[Supplemental reading](https://www.nginx.com/blog/introduction-to-microservices/) | Sara Mahdizadeh Shahri | Shruti Mittal | Tianyun Zhang |
-| Sep 11 (M) | [Profiling a Warehouse-Scale Computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) | Microarchitecture analysis | | Simon Spivey | Simon Men | Veronica |
-| Sep 13 (W) | [SoftSKU: Optimizing Server Architectures for Microservice Diversity @Scale](https://dl.acm.org/doi/10.1145/3307650.3322227) | Microarchitecture analysis | -[Supplemental reading](http://csl.stanford.edu/~christos/publications/2018.search.hpca.pdf) | Minh Truong | Simon Spivey | Sara Mahdizadeh Shahri	 |
-| Sep 18 (M) | [A Reconfigurable Fabric for Accelerating Large-Scale Datacenter Services](http://dl.acm.org/citation.cfm?id=2665678)| Hardware acceleration | - [Supplemental reading](https://www.csl.cornell.edu/~delimitrou/papers/2021.asplos.dagger.pdf)| Jeff Chen | Xuesi Chen | Rachana Murali Narayanan		 |
-| Sep 20 (W) | **No Class** | - Submit project deliverables document (<=1 page) </br> | |
-| Sep 25 (M) | [A hardware accelerator for protocol buffers](https://sagark.org/assets/pubs/protoacc-micro2021-preprint.pdf) | Hardware acceleration | Guest: [Sagar Karandikar (UC Berkeley)](https://sagark.org/) </br> - [Supplemental reading 1](https://www.gwern.net/docs/cs/2021-ranganathan.pdf) </br> [Supplemental reading 2](https://michaeltaylor.org/papers/ASIC_Cloud_ISCA_2016_Proceedings.pdf) | Lucas Castanheira | Jeff Chen | Xuesi Chen |
-| Sep 27 (W) | [AsmDB: Understanding and Mitigating Front-End Stalls in Warehouse-Scale Computers](https://dl.acm.org/doi/pdf/10.1145/3307650.3322234) | Compiler/PGO | - [Supplemental reading](https://dl.acm.org/doi/pdf/10.1145/3466752.3480124) | Xuesi Chen | Edwin Lim | Simon Men |
-| Oct 2 (M) | -[The Tail at Scale](https://cacm.acm.org/magazines/2013/2/160173-the-tail-at-scale/fulltext) </br> -[Attack of the Killer Microseconds](https://abelay.github.io/6828seminar/papers/barroso:killermicroseconds.pdf)| Tail latency, Killer microseconds | [Supplemental reading](https://docs.wixstatic.com/ugd/66fd54_b1a7b4d81fee4750a8cfd19107c8f55a.pdf) | Veronica | Sara Mahdizadeh Shahri | 	Lucas Castanheira |
-| Oct 4 (W) | [The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems](https://irenezhang.net/papers/demikernel-sosp21.pdf) | OS | - Guest: [Thomas Wenisch](https://scholar.google.com/citations?user=MJ5G4xgAAAAJ&hl=en) (Google) </br> - [Supplemental reading](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-belay.pdf) | Tianyun Zhang | Minh Truong	 | Edwin Lim |
-| Oct 9 (M) | [Dynamo: facebook's data center-wide power management system](https://ieeexplore.ieee.org/document/7551415)| Power/energy | - Guest: [Justin Meza](http://justinmeza.com/) </br> - First project milestone due (<5 pages)  | Shruti Mittal | Rachana Murali Narayanan | Jeff Chen |
-| Oct 11 (W) | [Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/Resource-Central-SOSP17.pdf) | Resource management/scheduling | - [Supplemental reading](http://research.google.com/pubs/pub43438.html) | Minh Truong	 | Simon Spivey  | Simon Men |
-| Oct 16 (M) | **Fall break: No Class** |  | |
-| Oct 18 (W) | **Fall break: No Class** |  | |
-| Oct 23 (M) | [Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/serverless-ATC20.pdf) | Serverless computing | - Guest: [Mohammad Shahrad](https://mshahrad.github.io/) (UBC) </br> - [Supplemental reading](https://www.cs.utexas.edu/users/witchel/pubs/jia21asplos-nightcore.pdf) |  Lucas Castanheira | Lucas Castanheira | Tianyun Zhang  |
-| Oct 25 (W) | [Cost-Efﬁcient Overclocking in Immersion-Cooled Datacenters](https://www.microsoft.com/en-us/research/publication/cost-ef%ef%ac%81cient-overclocking-in-immersion-cooled-datacenters/) | DC cooling | | Jeff Chen | Veronica  | Shruti Mittal |
-| Oct 30 (M) | [Chasing Carbon: The Elusive Environmental Footprint of Computing](https://arxiv.org/pdf/2011.02839.pdf) | Sustainability |  | Rachana Murali Narayanan | Simon Men | Simon Men |
-| Nov 1 (W) | [ACT: Designing Sustainable Computer Systems With An Architectural Carbon Modeling Tool](https://ugupta.com/files/Gupta_ISCA2022_ACT.pdf) | Sustainability | - [Supplemental reading](https://hotcarbon.org/2023/pdf/a7-lyu.pdf) </br> | Xuesi Chen | Tianyun Zhang | Edwin Lim |
-| Nov 6 (M) | - [Nines are not enough](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf) | DC business model | | Sara Mahdizadeh Shahri | Minh Truong | Veronica |
-| Nov 8 (W) | No paper review | Ethics | - Second project milestone due (<10 pages) <br/> |  | |  |
-| Nov 13 (M) | [Software-defined far memory in warehouse-scale computers](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/9bb06ab825a127bef4e33c488eaa659d6856225a.pdf) | ML for datacenter systems | - [Supplemental reading](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/CACM20-produced.pdf) | Edwin Lim | Rachana Murali Narayanan | Simon Spivey |
-| Nov 15 (W) | [Bolt: I Know What You Did Last Summer... in the Cloud](https://www.csl.cornell.edu/~delimitrou/papers/2017.asplos.bolt) | Security | [Supplemental reading](https://hovav.net/ucsd/dist/cloudsec.pdf)  |  Veronica | Shruti Mittal  | Rachana Murali Narayanan |
-| Nov 20 (M) | **No Class** |  | |
-| Nov 22 (W) | **Thanksgiving: No Class** |  | |
-| Nov 27 (M) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability |  | Edwin Lim | Jeff Chen   |  Minh Truong	  |
-| Nov 29 (W) |  **No Class** |  | |
-| Dec 4 (M) | How to excel as a systems engineer? |  | |  |
-| Dec 6 (W) | Final project presentations |  | |  |
-| Dec 11 (M) | Final project report due |  | |  |
+| Jan 17 (W) Lecture 1 | [Introduction to Data center Computing](https://drive.google.com/file/d/1c04f6nlFjQi0E6h4NUl9Kb242eLALo5y/view?usp=drive_link) | Introduction |- Find project partners <br/> - [Form](https://forms.gle/mnp6in6NxtikeBHu7) due|
+| Jan 22 (M) Lecture 2 <br/> | [Introduction to Data center Computing](https://drive.google.com/file/d/1S1KTJMHY6Kx1Znkib7WKieCEG_8kA1LO/view?usp=drive_link) | Introduction | - Finalize project partners <br/> | Akshitha Sriraman |
+| Jan 24 (W) | [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf) | Web application paradigms | - Submit project proposal document describing project topic (<=1 page) on Sep 8 </br> -[Supplemental reading](https://www.nginx.com/blog/introduction-to-microservices/) | Sara Mahdizadeh Shahri | Shruti Mittal | Tianyun Zhang |
+| Jan 29 (M) | [Profiling a Warehouse-Scale Computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) | Microarchitecture analysis | | Simon Spivey | Simon Men | Veronica |
+| Jan 31 (W) | [SoftSKU: Optimizing Server Architectures for Microservice Diversity @Scale](https://dl.acm.org/doi/10.1145/3307650.3322227) | Microarchitecture analysis | -[Supplemental reading](http://csl.stanford.edu/~christos/publications/2018.search.hpca.pdf) | Minh Truong | Simon Spivey | Sara Mahdizadeh Shahri	 |
+| Feb 05 (M) | [A Reconfigurable Fabric for Accelerating Large-Scale Datacenter Services](http://dl.acm.org/citation.cfm?id=2665678)| Hardware acceleration | - [Supplemental reading](https://www.csl.cornell.edu/~delimitrou/papers/2021.asplos.dagger.pdf)| Jeff Chen | Xuesi Chen | Rachana Murali Narayanan		 |
+| Feb 07 (W) | **No Class** | - Submit project deliverables document (<=1 page) </br> | |
+| Feb 12 (M) | [A hardware accelerator for protocol buffers](https://sagark.org/assets/pubs/protoacc-micro2021-preprint.pdf) | Hardware acceleration | Guest: [Sagar Karandikar (UC Berkeley)](https://sagark.org/) </br> - [Supplemental reading 1](https://www.gwern.net/docs/cs/2021-ranganathan.pdf) </br> [Supplemental reading 2](https://michaeltaylor.org/papers/ASIC_Cloud_ISCA_2016_Proceedings.pdf) | Lucas Castanheira | Jeff Chen | Xuesi Chen |
+| Feb 14 (W) | [AsmDB: Understanding and Mitigating Front-End Stalls in Warehouse-Scale Computers](https://dl.acm.org/doi/pdf/10.1145/3307650.3322234) | Compiler/PGO | - [Supplemental reading](https://dl.acm.org/doi/pdf/10.1145/3466752.3480124) | Xuesi Chen | Edwin Lim | Simon Men |
+| Feb 19 (M) | -[The Tail at Scale](https://cacm.acm.org/magazines/2013/2/160173-the-tail-at-scale/fulltext) </br> -[Attack of the Killer Microseconds](https://abelay.github.io/6828seminar/papers/barroso:killermicroseconds.pdf)| Tail latency, Killer microseconds | [Supplemental reading](https://docs.wixstatic.com/ugd/66fd54_b1a7b4d81fee4750a8cfd19107c8f55a.pdf) | Veronica | Sara Mahdizadeh Shahri | 	Lucas Castanheira |
+| Feb 21 (W) | [The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems](https://irenezhang.net/papers/demikernel-sosp21.pdf) | OS | - Guest: [Thomas Wenisch](https://scholar.google.com/citations?user=MJ5G4xgAAAAJ&hl=en) (Google) </br> - [Supplemental reading](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-belay.pdf) | Tianyun Zhang | Minh Truong	 | Edwin Lim |
+| Feb 26 (M) | [Dynamo: facebook's data center-wide power management system](https://ieeexplore.ieee.org/document/7551415)| Power/energy | - Guest: [Justin Meza](http://justinmeza.com/) </br> - First project milestone due (<5 pages)  | Shruti Mittal | Rachana Murali Narayanan | Jeff Chen |
+| Feb 28 (W) | [Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/Resource-Central-SOSP17.pdf) | Resource management/scheduling | - [Supplemental reading](http://research.google.com/pubs/pub43438.html) | Minh Truong	 | Simon Spivey  | Simon Men |
+| Mar 04 (M) | **Spring break: No Class** |  | |
+| Mar 06 (W) | **Spring break: No Class** |  | |
+| Mar 11 (M) | [Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/serverless-ATC20.pdf) | Serverless computing | - Guest: [Mohammad Shahrad](https://mshahrad.github.io/) (UBC) </br> - [Supplemental reading](https://www.cs.utexas.edu/users/witchel/pubs/jia21asplos-nightcore.pdf) |  Lucas Castanheira | Lucas Castanheira | Tianyun Zhang  |
+| Mar 13 (W) | [Cost-Efﬁcient Overclocking in Immersion-Cooled Datacenters](https://www.microsoft.com/en-us/research/publication/cost-ef%ef%ac%81cient-overclocking-in-immersion-cooled-datacenters/) | DC cooling | | Jeff Chen | Veronica  | Shruti Mittal |
+| Mar 18 (M) | [Chasing Carbon: The Elusive Environmental Footprint of Computing](https://arxiv.org/pdf/2011.02839.pdf) | Sustainability |  | Rachana Murali Narayanan | Simon Men | Simon Men |
+| Mar 20 (W) | [ACT: Designing Sustainable Computer Systems With An Architectural Carbon Modeling Tool](https://ugupta.com/files/Gupta_ISCA2022_ACT.pdf) | Sustainability | - [Supplemental reading](https://hotcarbon.org/2023/pdf/a7-lyu.pdf) </br> | Xuesi Chen | Tianyun Zhang | Edwin Lim |
+| Mar 25 (M) | - [Nines are not enough](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf) | DC business model | | Sara Mahdizadeh Shahri | Minh Truong | Veronica |
+| Mar 27 (W) | No paper review | Ethics | - Second project milestone due (<10 pages) <br/> |  | |  |
+| Apr 01 (M) | [Software-defined far memory in warehouse-scale computers](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/9bb06ab825a127bef4e33c488eaa659d6856225a.pdf) | ML for datacenter systems | - [Supplemental reading](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/CACM20-produced.pdf) | Edwin Lim | Rachana Murali Narayanan | Simon Spivey |
+| Apr 03 (W) | [Bolt: I Know What You Did Last Summer... in the Cloud](https://www.csl.cornell.edu/~delimitrou/papers/2017.asplos.bolt) | Security | [Supplemental reading](https://hovav.net/ucsd/dist/cloudsec.pdf)  |  Veronica | Shruti Mittal  | Rachana Murali Narayanan |
+| Apr 08 (M) | **No Class** |  | |
+| Apr 10 (W) | **Thanksgiving: No Class** |  | |
+| Apr 15 (M) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability |  | Edwin Lim | Jeff Chen   |  Minh Truong	  |
+| Apr 17 (W) |  **No Class** |  | |
+| Apr 22 (M) | How to excel as a systems engineer? |  | |  |
+| Apr 24 (W) | Final project presentations |  | |  |
+| Apr 29 (M) | Final project report due |  | |  |
 
 
 ### Education Objectives (Relationship of Course to Program Outcomes)
