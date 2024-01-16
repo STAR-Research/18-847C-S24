@@ -1,4 +1,4 @@
-# 18-847B: Data Center Computing (Spring 2024)
+# 18-847C: Data Center Computing (Spring 2024)
 
 READ THIS ENTIRE DOCUMENT 
 
