@@ -128,7 +128,7 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-f23.hotcrp.
 | Apr 01 (M) | No paper review | Ethics | - Second project milestone due (<10 pages) <br/> |  | |  |
 | Apr 03 (W) | [Software-defined far memory in warehouse-scale computers](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/9bb06ab825a127bef4e33c488eaa659d6856225a.pdf) | ML for datacenter systems | - [Supplemental reading](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/CACM20-produced.pdf) | Student TBD | Student TBD | Student TBD |
 | Apr 08 (M) | [Bolt: I Know What You Did Last Summer... in the Cloud](https://www.csl.cornell.edu/~delimitrou/papers/2017.asplos.bolt) | Security | [Supplemental reading](https://hovav.net/ucsd/dist/cloudsec.pdf)  | Student TBD | Student TBD | Student TBD |
-| Apr 10 (W) | | **Fall's Holiday slot** | |
+| Apr 10 (W) | **Fall's Holiday slot** | | |
 | Apr 15 (M) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability |  | Student TBD | Student TBD | Student TBD |
 | Apr 17 (W) |  **No Class** |  | |
 | Apr 22 (M) | How to excel as a systems engineer? |  | |  |
