@@ -104,8 +104,8 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-s24.hotcrp.
 
 | Date      | Topic | Readings | Notes | Summary | Advocate | Critic |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Jan 17 (W) Lecture 1 | [Introduction to Data center Computing](https://drive.google.com/file/d/1c04f6nlFjQi0E6h4NUl9Kb242eLALo5y/view?usp=drive_link) | Introduction |- Find project partners <br/> - [Form](https://forms.gle/KBpc5ETjz5jywfEN6) due|
-| Jan 22 (M) Lecture 2 <br/> | [Introduction to Data center Computing](https://drive.google.com/file/d/1S1KTJMHY6Kx1Znkib7WKieCEG_8kA1LO/view?usp=drive_link) | Introduction | - Finalize project partners <br/> | Akshitha Sriraman |
+| Jan 17 (W) Lecture 1 | [Introduction to Data center Computing]() | Introduction |- Find project partners <br/> - [Form](https://forms.gle/KBpc5ETjz5jywfEN6) due|
+| Jan 22 (M) Lecture 2 <br/> | [Introduction to Data center Computing]() | Introduction | - Finalize project partners <br/> | Akshitha Sriraman |
 | Jan 24 (W) | [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf) | Web application paradigms | -[Supplemental reading](https://www.nginx.com/blog/introduction-to-microservices/) | Aayush Gupta | Shengjian Chen | Isabella Siu |
 | Jan 29 (M) | [Profiling a Warehouse-Scale Computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) | Microarchitecture analysis | - Submit project proposal document describing project topic (<=1 page) </br> | Henry Wong | Eugene Min | Swamynathan |
 | Jan 31 (W) | [SoftSKU: Optimizing Server Architectures for Microservice Diversity @Scale](https://dl.acm.org/doi/10.1145/3307650.3322227) | Microarchitecture analysis | -[Supplemental reading](http://csl.stanford.edu/~christos/publications/2018.search.hpca.pdf) | Disha Hegde | Humza Ikram | Hanlu Xu |
