@@ -119,7 +119,7 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-s24.hotcrp.
 | Feb 28 (W) | [Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/serverless-ATC20.pdf) | Serverless computing | Guest: [Mohammad Shahrad](https://mshahrad.github.io/) (UBC) - [Supplemental reading](https://www.cs.utexas.edu/users/witchel/pubs/jia21asplos-nightcore.pdf) | Rohan Sonecha | Michael Chen | Michael Chen |
 | Mar 04 (M) | **Spring break: No Class** |  | |
 | Mar 06 (W) | **Spring break: No Class** |  | |
-| Mar 11 (M) | [Cost-Efﬁcient Overclocking in Immersion-Cooled Datacenters](https://www.microsoft.com/en-us/research/publication/cost-ef%ef%ac%81cient-overclocking-in-immersion-cooled-datacenters/) | DC cooling | | Eugene Min | Isabella Siu | Disha Hegde |
+| Mar 11 (M) | [Cost-Efﬁcient Overclocking in Immersion-Cooled Datacenters](https://www.microsoft.com/en-us/research/publication/cost-ef%ef%ac%81cient-overclocking-in-immersion-cooled-datacenters/) | DC cooling | | Eugene Min | Isabella Siu | Eugene Min |
 | Mar 13 (W) | [Chasing Carbon: The Elusive Environmental Footprint of Computing](https://arxiv.org/pdf/2011.02839.pdf) | Sustainability |  |  Humza Ikram | Aayush Gupta | Sanjana Shriram |
 | Mar 18 (M) | [ACT: Designing Sustainable Computer Systems With An Architectural Carbon Modeling Tool](https://ugupta.com/files/Gupta_ISCA2022_ACT.pdf) | Sustainability | - Guest: [Udit Gupta](https://ugupta.com/) </br> - [Supplemental reading](https://hotcarbon.org/2023/pdf/a7-lyu.pdf) </br> | William Krska | Rohan Sonecha | Alison Jin |
 | Mar 20 (W) | - [Nines are not enough](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf) | DC business model | | Sanjana Shriram | Isabella Siu | Sirui Qi |
@@ -128,7 +128,7 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-s24.hotcrp.
 | Apr 01 (M) | **No Class** |  | |
 | Apr 03 (W) | [Bolt: I Know What You Did Last Summer... in the Cloud](https://www.csl.cornell.edu/~delimitrou/papers/2017.asplos.bolt) | Security | [Supplemental reading](https://hovav.net/ucsd/dist/cloudsec.pdf)  | Hanlu Xu | William Krska  | Hung-Chieh (Tommy) Chen |
 | Apr 08 (M) | **No Class**  |  |  | 
-| Apr 10 (W) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability | Sirui Qi | Quanchen Ding | Eugene Min |
+| Apr 10 (W) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability | Sirui Qi | Quanchen Ding | Disha Hegde |
 | Apr 15 (M) | **No Class** |  | |
 | Apr 17 (W) | **No Class** |  | |  
 | Apr 22 (M) | How to excel as a systems engineer? |  | |  |
