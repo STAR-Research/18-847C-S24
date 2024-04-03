@@ -127,8 +127,8 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-s24.hotcrp.
 | Mar 27 (W) | [Software-defined far memory in warehouse-scale computers](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/9bb06ab825a127bef4e33c488eaa659d6856225a.pdf) | ML for datacenter systems | - [Supplemental reading](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/CACM20-produced.pdf) | Yuxin Deng | Swamynathan | Xinshi Wang |
 | Apr 01 (M) | **No Class** |  | |
 | Apr 03 (W) | [Bolt: I Know What You Did Last Summer... in the Cloud](https://www.csl.cornell.edu/~delimitrou/papers/2017.asplos.bolt) | Security | [Supplemental reading](https://hovav.net/ucsd/dist/cloudsec.pdf)  | Hanlu Xu | William Krska  | Hung-Chieh (Tommy) Chen |
-| Apr 08 (M) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability |  | Sirui Qi | Quanchen Ding | Eugene Min |
-| Apr 10 (W) | **No Class** |  | |
+| Apr 08 (M) | **No Class**  |  |  | 
+| Apr 10 (W) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability | Sirui Qi | Quanchen Ding | Eugene Min |
 | Apr 15 (M) | **No Class** |  | |
 | Apr 17 (W) | **No Class** |  | |  
 | Apr 22 (M) | How to excel as a systems engineer? |  | |  |
