@@ -131,7 +131,7 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-s24.hotcrp.
 | Apr 10 (W) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability |  | Sirui Qi | Quanchen Ding | Disha Hegde |
 | Apr 15 (M) | **No Class** |  | |
 | Apr 17 (W) | **No Class** |  | |  
-| Apr 22 (M) | How to excel as a systems engineer? |  | |  |
+| Apr 22 (M) | **No Class** |  | |  |
 | Apr 24 (W) | Final project presentations |  | |  |
 | Apr 26 (F) | Final project report due |  | |  |
 
